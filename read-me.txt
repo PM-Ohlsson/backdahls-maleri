@@ -1,0 +1,13 @@
+PUBLICERA
+Ladda upp index.html och hela assets-mappen till GitHub-repositoryts rot. Aktivera Pages via main / (root).
+
+FILM
+Klicka på play: rutan expanderar till 16:9 och filmen startar. Paus behåller storleken. Stäng filmen fäller ihop.
+assets/om-oss.mp4 är en sex sekunders demofilm av en AI-genererad stillbild utan ljud. Ersätt filen med din riktiga film med samma namn.
+Rekommenderat format: MP4, H.264, 1080p, webboptimerad med fast start. Håll under 25 MiB om du laddar upp via GitHubs webbsida.
+
+FORMULÄR
+Förhandsvisning. Skickar inget. Behöver formulärtjänst med bekräftad mottagare.
+
+BILDER
+AI-genererade placeholders. Personalbilden visar fiktiva personer.
